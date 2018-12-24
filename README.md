@@ -16,6 +16,7 @@ See also:
 * [The Legalities of Linking](https://www.lifewire.com/legalities-of-linking-3468972)
 * [COPYRIGHT LIABILITY FOR LINKING AND EMBEDDING - Klaris Law (.PDF)](https://klarislaw.com/wp-content/uploads/klarislaw-copyright-liability-for-linking-and-embedding.pdf)
 * [EU court says linking to copyrighted material isn't illegal](https://www.engadget.com/2016/04/08/eu-court-linking-copyrighted-content-is-legal/)
+* [New EU Piracy Watchlist Targets Key Pirate Sites and Cloudflare](https://torrentfreak.com/new-eu-piracy-watchlist-targets-key-pirate-sites-and-cloudflare-181210/)   ([.PDF](https://torrentfreak.com/images/tradoc_157564.pdf))
 
 
 # Todo
@@ -25,24 +26,25 @@ See also:
 
 
 ## Contributing Guidelines
-- [x] Issue ticket are closed
-- [x] Submitted pages must be malware free, if it requires a VPN/proxy it must be mentioned.
+- [x] Issue ticket system is closed (for now)
+- [x] Submitted pages must be malware free, if it requires a VPN/proxy it must be mentioned due to security reasons!
 - [x] All pages are in english, except the ones which are labeled with e.g. (Ger) for Germany etc. 
 - [x] Don't argue about morality here. We all have our reasons. 
 - [x] If something is wrong or missing just make a PR (_see below how to do that!_)
 - [x] No page except ThePirateBay should include dangerous ads or coin-miners
-- [x] Not every software/provider gets listed (for a reason), alternatives are cool but there should be reviewed and checked if it makes sense to mention them
+- [x] Not every software/provider gets listed (for a reason), alternatives are cool but there should be reviewed and checked if it makes sense to mention them.
+- [x] No drama or bitch fighting, if a page is involved into such things it automatically lands on the banned list.  
 
+### Submitting a PR
 * Fork the repo on GitHub
 * Clone the project to your own machine
 * Commit changes to your own branch
 * Push your work back up to your fork
 * Submit a Pull request so that we can review your changes
 
-NOTE: Be sure to merge the latest from "upstream" before making a pull request!
+**NOTE**: Be sure to merge the latest from "upstream" before making a pull request!
 
 ## Scene Release Info
-- [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
 - [SCENE-SCRiPTS](https://github.com/scriptzteam/SCENE-SCRiPTS)
 - [predb.pw](https://predb.pw)
 - [xrel.to](https://www.xrel.to/)
@@ -51,6 +53,10 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [DVD ReleaseDates](https://www.dvdsreleasedates.com/)
 - [SCNLOG.me](https://scnlog.me)
 - [RARBG](https://rarbg.to/) Public tracker with its own release group.
+
+### Basic "starter info"
+- [Wikipedia's List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups)
+- [Wikipedia's Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services)
 
 ## Anti-tamper systems
 - [Valeroa](https://old.reddit.com/r/CrackWatch/comments/a23al4/valeroa_the_new_anti_tamper/)
@@ -159,6 +165,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Torrage](https://torrage.info/) Torrage is a free service for caching torrent files online.
 - [peerflix Google Search](https://www.google.com/search?q=peerflix+site%3Aherokuapp.com) Searches Heroku-deployed instances of Peerflix for streaming torrents.
 - [Torznab](https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) Newznab-like API offering a standardized recent/search API for both TV and movies.
+- [Torrents.csv](https://torrents-csv.ml/) An [open source](https://gitlab.com/dessalines/torrents.csv) collaborative repository of torrents, consisting of a single, searchable torrents.csv.
 
 ### Trackers
 - [/r/trackers](https://www.reddit.com/r/trackers) A subreddit for discussing public & private trackers.
@@ -244,11 +251,14 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
 - [Torrent9](https://www.torrent9.ph/) French torrent search engine.
 - [YggTorrent](https://www3.yggtorrent.to/) French tracker and search engine (have a download/upload ratio limitation).
-- [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI.
+- [WorldWide Torrents](http://worldwidetorrents.to/) Another public tracker with a reasonably nice UI.
 - [TorrentInvites](http://torrentinvites.org) 
 - [BytesLoader](https://www.bytesloader.com/)
 - [Pirateiro](https://pirateiro.unblocked.gdn/)
 - [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
+- [Saavn](https://saavn.tomato.to/) A search engine designed to find old and new music releases.
+- [xbit.pw](http://xbit.pw/) A Magnet site search engine.
+- [WebOas](https://weboas.is/) A search engine designed to find warez, music and other stuff in public dirs.
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
@@ -449,7 +459,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [IPLIVE](https://iplive.club/) DDL search engine.
 
 ### GoG Repack & Releases + Retro Games
-- [Good-Old-Downloads (GitHub)](https://github.com/Good-Old-Downloads) - Good-Old-Downloads is shuting down, see [here](https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) why. There is a full encrypted dump avbl. [here](https://mega.nz/#!UccmySQK!N099Mjn9pe7PNYKJDOTdAAOSHpV1ZwpA8CT_wp2CNbw), make sure you read the integrated readme file!
+- [Good-Old-Downloads (GitHub source code)](https://github.com/Good-Old-Downloads) - Good-Old-Downloads is shuting down, see [here](https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) why. There is a full encrypted dump avbl. [here](https://mega.nz/#!UccmySQK!N099Mjn9pe7PNYKJDOTdAAOSHpV1ZwpA8CT_wp2CNbw), make sure you read the integrated readme file!
 - [Torminatorr.com](http://www.forum.torrminatorr.com/viewforum.php?f=13) Good-Old-Downloads mirror page.
 
 ### DDL Link Sites
@@ -481,11 +491,10 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/)
 - [Watch Series](http://watchseries.ag/)
 - [WatchTVSeries](http://watchtvseries.unblckd.club/)
-- [tvbox](https://tvbox.unblocked.gdn/)
 - [DownTurk](https://www.downturk.net/)
 - [ScnLog](https://scnlog.me/)
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
-- [WarezBB.org](http://warezbb.org/) Invite-only forum.
+- [WarezBB.org](http://warezbb.org/) Invite-only elite forum.
 - [RU-Board](http://forum.ru-board.com/) Well-known warez board.
 - [Nsane Forum](https://www.nsaneforums.com/)
 - [KickassWarez](https://kickasswarez.info/) Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
@@ -510,6 +519,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Mawto](https://www.mawtoload.com/)
 - [rsload](https://rsload.net/)
 - [GLOAD.cc](https://gload.cc/) (Ger)
+- [AppNee Freeware Group](https://appnee.com/) Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
 
 ### Premium Link Generators
 - [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
@@ -543,6 +553,15 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Panelshow.club](http://panelshow.club/) Directory of panel show TV episodes from [/r/panelshow](https://www.reddit.com/r/panelshow).
 
 ### Anime & Cartoon Streaming
+- [480mkv](http://480mkv.com/)
+- [PutlockerSeries](http://putlockerseries.to/)
+- [TVBox](https://tvbox.unblocked.gdn/)
+- [WatchSeries](http://dwatchseries.to/)
+- [WatchSeries 2.0](https://watch-series.io/)
+- [MioMio](http://www.miomio.tv/)
+- [Anime8](https://anime8.me/)
+- [NineAnime](https://www.nineanime.com/)
+- [TVRaven](https://www.onetvraven.pro/)
 - [Monimo](https://monimoapp.netlify.com/)
 - [Masterani](https://www.masterani.me/)
 - [9Anime](https://tinyurl.com/ydgladf3)
@@ -550,8 +569,8 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [AnimeHeaven](http://animeheaven.eu/)
 - [Hi10Anime](https://tinyurl.com/y72ltlay)
 - [AnimePahe](https://animepahe.com/)
-- [Kissanime.ru](http://kissanime.ru/)
-- [Kissanime.ac](https://kissanime.ac/)
+- [MasterAni](https://www.masterani.me)
+- [Kissanime.ru](http://kissanime.ru/) or [Kissanime.ac](https://kissanime.ac/)
 - [GoGoAnime](https://www1.gogoanime.sh/)
 - [AnimeBam](https://www.animebam.net/)
 - [AnimeHub](https://animehub.ac/)
@@ -593,6 +612,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Toonova](https://tinyurl.com/ybxvn3ad)
 - [MoviesEver](https://moviesever.com/)
 - [Serienjunkies](http://serienjunkies.org/) 720p (German)
+- [Mejor Torrent](http://www.mejortorrent.org/) (ES)
 
 ### Specialty Sites
 - [Rulu](https://www.rulu.co/) Youtube Red Series
@@ -651,7 +671,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/)
 - [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/)
 - [Yes! Movies](https://yesmovies.to)
-- [FMOVIES](https://www3.fmovies.to/)
+- [FMOVIES](https://www3.fmovies.to/) Openload, MyCloud, RapidVideo, Streamango
 - [openloadmovies.net](https://openloadmovies.net/) Reliable movie streaming site which uses OpenLoad
 - [HD MOVIES](https://hdm.to/) Another streaming site which uses OpenLoad
 - [HDOnline](https://www1.hdonline.eu)
@@ -681,10 +701,11 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [DP Stream](https://www.dpstream.net/)
 
 ### Sports Streaming
-- [LiveTV](https://livesx.eu/)
-- [Cricfree](https://crickfree.org/)
-- [VIPBox](https://www.vipbox.live/) Spanish
-- [MamaHD](https://www.mamahd.org/)
+- [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services.
+- [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting
+- [Cricfree](https://crickfree.org/) Offers popular sports streams
+- [VIPBox](https://www.vipbox.live/) (Spanish) Many sport streams, TV, friendly UI
+- [MamaHD](https://www.mamahd.org/) 24/7 feeds, sports streams, clean UI
 - [/r/soccerstreams](https://www.reddit.com/r/soccerstreams) A subreddit dedicated to the highest quality of free soccer / football streams. World Cup Streams, too.
 - [/r/nflstreams](https://www.reddit.com/r/nflstreams/)
 - [/r/nbastreams](https://www.reddit.com/r/nbastreams/)
@@ -696,7 +717,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/)
 - [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/)
 - [/r/mmafights](https://www.reddit.com/r/mmafights/)
-- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams)
+- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit community for motorsports streams.
 - [Send It](https://sendit.gg/) Live stream listings for sports, news, gaming, and more.
 - [SportsHD](http://www.speedsports.me)
 - [720pStream](http://www.720pstream.me/)
@@ -776,6 +797,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Kitana](https://github.com/pannal/Kitana) Kitana exposes your Plex plugin interfaces "to the outside world".
 - [Python-PlexLibrary](https://github.com/adamgot/python-plexlibrary) Python command line utility for creating and maintaining dynamic Plex libraries based on "recipes".
 - [NowShowing](https://github.com/ninthwalker/NowShowing) Generates an email and web page of Plex recently added content
+- [DocDownloader](https://docdownloader.com/)
 
 ### Plex Shares
 - [/r/plexshares](https://www.reddit.com/r/plexshares/) A nice place to find Plex Media Server shares.
@@ -820,7 +842,6 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [CreamAPI AutoInstaller](https://github.com/Douile/cream-api-autoinstaller) A python script to auto install Cream API for Steam games in order to get all [DLCs for free](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576&hilit=CreamAPI).
 
 ### Repacks
-- [Games Torrent](http://gamestorrent.co/) Torrent site, part of IGGGAMES with releases from CODEX, RELOADED, CPY, SKIDROW, and more.
 - [FitGirl Repacks](http://fitgirl-repacks.site/) Popular DDL and torrent site for game repacks.
 - [Xatab Repacks](https://xatab-repack.net) Russian game repacker, primarily torrents.
 - [ElAmigos Games](https://www.elamigos-games.com/) Premium links to cracked games.
@@ -842,7 +863,6 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
 - [Old Games Finder](http://www.oldgamesfinder.com/) Old Games Finder is an automated old games search engine. (avoid ISO Zone links, as that site is dead).
 - [The ROM Depot](https://theromdepot.com/roms/) Around 3 TB of ROMs.
-- [3dscia](https://www.3dscia.com/) Nintendo 3ds CIA files.
 - [Ziperto](https://www.ziperto.com/) Nintendo 3ds CIA files, especially for JRPGs.
 - [Darkumbra](https://darkumbra.net/forums/forum/192-3ds-cia-games/) Nintendo 3ds CIA files.
 - [No Intro DAT-o-MATIC](https://datomatic.no-intro.org/) List of Xbox, Nintendo etc games. 
@@ -862,9 +882,44 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [DL2-DLFox](http://dl2.dlfox.com/96/4/) FTP Mirror for various Games.
 - [Skidrow & Reloaded](https://www.skidrowreloaded.com/) Fanmade Skidrow & Reloaded mirror website.
 - [GameCopyWorld](https://gamecopyworld.eu) Provides cracks for Games.
+- [MegaGames](https://megagames.com/) Same like GameCopyWorld, online since 20+ years, old but gold!
 - [GameBurnWorld](http://www.gameburnworld.com/) Provides cracks for Games.
-- [IGG-Games](http://igg-games.com/) Provides cracks for lots of Games.
 - [Torrents Gamestorrent](http://gamestorrent.co/) PC Game releases from CODEX, SKIDROW, PLAZA & Co.
+- [OVA Games](http://www.ovagames.com/) Cracks to latest Game Releases from PLAZA, CODEX & Co.
+
+
+### GameCube Games
+- [GDrive](https://drive.google.com/drive/folders/13qVydg48SNv1aosx3mdnJmSwUXXvrbHR)
+- [Archive.org](https://archive.org/details/NCubeJ) Gamecube NTSC-J: Your gonna need an account with archive.org but it should work, speeds are decent.
+
+
+### 3DS
+- [3DS Decrypter utility](https://github.com/matiffeder/stuff)
+- [ziperto.com](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/)
+- [3dscia](https://www.3dscia.com/) Nintendo 3ds CIA files.
+- [GDrive](https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5)  All regions collection.
+- [Mega.nz](https://mega.nz/#F!yLBiwApZ!JlecejkP1KK8jZujzHUbwQ) 3DS Virtual Console
+- [MEga.nz](https://mega.nz/#F!33AhDa4T!awOqr7lhZYFgjXoMMu6_8w) DS Best of Collection
+- [GDrive](https://drive.google.com/drive/folders/1hXkQlsTk5dOAZyHP8WfCLl-adyEK24Dd)
+- [GDrive](https://drive.google.com/drive/folders/1VsRg8wZ2R_r_lRN89dKopQsTVN6EvRU3)
+
+
+### GameBoy Advance
+- [Mega.nz](https://mega.nz/#!nNoCWbBB!VYNEdwStd12U_aS1qotoo9bz8vky9JnZGrlqAeVKHjA) Password=snahp.it
+- [GDrive (mirror)](https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf) Password=snahp.it
+
+
+### Nintendo Switch Games
+- [GDrive](https://drive.google.com/drive/folders/168_c19L6oDozFaMIOdf4oiL34y9tQP_J)
+- [GDrive (more frequently updated](https://drive.google.com/drive/folders/1VAxbSUcVindLxf9pVWvh64B-0Q8aM6xZ)
+
+
+### Wii U Games
+- [GDrive](https://drive.google.com/drive/folders/1Jkvx4RGbTF75NLUtYBDJG6FaFhvYw9m-) EU only games.
+- [GDrive](https://drive.google.com/drive/folders/0B7vPmuZfN3snMU0zYlBXSWVhOUE) Wiiware and VC collection
+- [GDrive](https://drive.google.com/drive/folders/0B7H6hIZDxNXeQW9uODA5UkM0ZG8) Wii Scrubbed ISOs retail Collection NTSC
+- [GDrive (Mirror from abolve link](https://drive.google.com/drive/folders/1UM6ZIhtWtIuwHo2rJunTTtW6sMxkTSQ0)
+
 
 ### CD Key Sellers
 - [GO CD Keys](https://gocdkeys.com/)
@@ -907,6 +962,8 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [HorribleSubs](https://horriblesubs.info/) Download anime via torrent files, magnet links, XDCC, and premium link hosts.
 - [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
 - [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
+- [GoGoAnimes](https://gogoanimes.co) Dubs and up2date animes.
+- [Kissanime](https://kissanime.ru) Dubs and up2date animes.
 
 ## Cartoons
 - [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
@@ -1010,7 +1067,9 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Calibre](https://calibre-ebook.com/) eBook Management Tool
 - [Calibre-Web](https://github.com/janeczku/calibre-web) Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks.
-- [LibGen](http://libgen.io/) eBook search.
+- [LibGen](http://libgen.io/) eBook search. ([Mirror](http://gen.lib.rus.ec/)) + ([another Mirror](https://libgen.pw/))
+- [TehParadox](http://www.tehparadox.co/) eBooks, Apps, Games & more.
+- [/r/DHExchange](https://old.reddit.com/r/DHExchange/) PDF/eBooks trading.
 
 ## Magazines
 - [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
@@ -1041,6 +1100,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [FreeTutorial](https://www.freetutorials.eu/) Free tutorials page, hacking courses & more.
 - [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 - [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is
+- [Unlimited Mega.nz-IDM-downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) Download Mega.nz without any limits.
 
 ## Direct Download Streaming
 - [filechef](http://filechef.com/)
@@ -1051,6 +1111,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobook for free or share your audio books, safe, fast and high quality.
 - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS.
 - [Booksonic](http://booksonic.org/) Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
+- 
 
 ## Comicbooks
 - [readcomiconline.to](https://readcomiconline.to/) Manga and comics which are been uploaded daily.
@@ -1079,12 +1140,13 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [My big list of documentary sites (streaming and download)](https://www.reddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) An old post by /u/whatwhat888 that may still be useful
 
 ## Fonts, Icons and Graphics
-- [Get the font](https://www.getthefont.com/) Searches through GitHub for fonts
+- [Get the Font](https://www.getthefont.com/) Searches through GitHub for fonts
 - [Web4Sync](https://web4sync.com/) Forum with DDL links catering to web development, graphics design, 3D animation, and photography
 - [GFXDomain](http://forum.gfxdomain.net/) Forum for graphic design resources and software
 - [GFxtra](https://www.gfxtra.com/) DDL links for graphics, icons, 3D models, and more
 - [GraphicEx](https://graphicex.com/) Stock/vector graphics, PhotoShop/InDesign resources, fonts, and more
-- [How to download paid fonts for free](https://old.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) Post by /u/Bebhio on how to use clever Google searches to find fonts online
+- [Tomato.to](https://tomato.to/) Supports Shutterstock, Gettyimages, Adobestock, Fotolia, Vectorstock, iStockphoto, PNGTree & PicFair.
+- [How to download paid Fonts for free](https://old.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) Post by /u/Bebhio on how to use clever Google searches to find fonts online
 
 ## Automation
 - [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
@@ -1136,7 +1198,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library
 - [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine/) The A.R.M. (Automatic Ripping Machine) detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action
 - [DVD Decrypter](http://dvddecrypter.org.uk/) The original unofficial DVD Decrypter mirror since June 7th, 2005.
-- [DVDFab](https://www.dvdfab.cn/) DVD ripping tool
+- [DVDFab](https://www.dvdfab.cn/) DVD/Blu-ray ripping tool, alternative use AnyDVD HD.
 
 ## Cloud Storage
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
@@ -1158,6 +1220,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
 - [iFlicks2](https://iflicksapp.com/) Useful for adding metadata to movies and TV shows
 - [/r/datacurator](https://www.reddit.com/r/datacurator/) Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips and tricks, asking for help etc.
+- [MediaElch](https://www.kvibes.de/mediaelch/) Media manager for Kodi. Metadata & artwork retrieval, as well as renaming.
 
 ## Mobile Apps
 - [nzb360](http://nzb360.com/) nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your usenet needs.
@@ -1186,6 +1249,12 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [TeaTV](https://teatv.net/) App for Android, Windows, and macOS for watching 1080p movies and TV shows for free
 
 ### Big Media Libraries
+- [Primewire](http://www.primewire.is/)
+- [SolarMovieHD](https://solarmoviehd.to/)
+- [Ololo](https://ololo.to/)
+- [FreeMoviez](https://freemoviesz/)
+- [Alluc](https://w1.alluc.uno/)
+- [Solarmovies](https://solamovies.cc/)
 - [filechef](http://filechef.com/) Search Direct Downloads
 - [CafeHulu](http://cafehulu.com/)
 - [8Putlocker](http://www1.8putlocker.com/)
@@ -1196,7 +1265,6 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Viooz](https://vioozgo.org/)
 - [Afdah](http://afdah.to/)
 - [2TwoMovies](https://two-movies.net/)
-- [WatchSeries 2.0](https://watch-series.io/)
 - [Putlockertv](https://www3.putlocker.onl/)
 - [Putlockeri](https://putlockeri.club/)
 - [Los-Movies](http://los-movies.com/)
@@ -1207,12 +1275,13 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [EZTV](https://eztv.io/)
 - [Kinox.to](https://www.kinos.to/) (German)
 - [BS.to](https://bs.to/) (German)
+- [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
+- [/r/BestOfStreamingVideo](https://www.reddit.com/r/BestOfStreamingVideo/) Reddit, random streaming sites
+- [M4UFree.TV](http://m4ufree.tv/) Unique design, HD server with backup and additional hosts
 
 ### TV & Sports Streaming
 - [M4uFree.tv](https://tinyurl.com/y7hf9et8)
 - [TVZion](https://www.nicetvzion.pro/)
-- [TVRaven](https://www.onetvraven.pro/)
-- [WatchSeries](http://dwatchseries.to/)
 - [SeriesFree](https://tinyurl.com/y7onqc4r)
 - [Daily TV Fix](https://tinyurl.com/yaqbmccu)
 - [TVSeries4u](http://tvseries4u.com/)
@@ -1254,7 +1323,6 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [HackIMDb](https://hackimdb.com/)
 - [FFilms](http://ffilms.org/)
 - [VidCloud](https://tinyurl.com/ycw4lkgz)
-- [SolarMovieHD](https://solarmoviehd.to/)
 - [IWannaWatch](https://www.iwannawatch.is/)
 - [Streamlord](https://tinyurl.com/ybrtnppf)
 - [Khaanflix](https://tinyurl.com/y98muv8v)
@@ -1311,15 +1379,13 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Movie Files](https://moviefiles.org/)
 - [HD Multireddit](https://old.reddit.com/user/nbatman/m/streaming2/) 1080p Openload, Google Video & Vimeo,..
 - [Crackle](https://www.sonycrackle.com/out-of-region.html)
-- [Ololo](https://ololo.to/)
 - [Videospider](https://videospider.in/)
-- [Alluc](https://w1.alluc.uno/)
 - [crawler](https://crawler.to/)
 - [IceFilms](http://www.icefilms.info/)
 - [MovieJagg](https://www.coolmoviejagg.pro/)
 - [Vmovee](https://vmovee.ws/)
 - [UWatchfree](https://www.uwatchfree.tv/)
-- [RainierLand](http://www.rainierland.is/)
+- [RainierLand](http://www.rainierland.is/) Openload, Streamango
 - [WatchFullMovie](http://watchfullmovie.co/)
 - [Megashare9](http://megashare9.su/)
 - [OnMovies](https://onmovies.to/)
@@ -1337,6 +1403,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [LibreTorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/) LibreTorrent is a Free as in Freedom torrent client for Android 4+, based on libtorrent.
 - [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) Lightweight & powerful BitTorrent app.
 - [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) Another popular torrent client for Android.
+- [Trireme for Deluge](https://f-droid.org/en/packages/org.deluge.trireme/) A Deluge thin client for Android. Written in Flutter.
 
 ### APKs
 - [Aptoide](http://www.aptoide.com/) Cracked and legit apk's. 
@@ -1352,6 +1419,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Androeed](https://www.androeed.ru/) (RU) Russian APK site.
 - [libre.io](https://boards.libre.io) (requires login) A small forum with some exclusive apps & games.
 - [iHackedit](http://ihackedit.com/) Provides Android apps & games including Mods.
+- [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy focused keyboard.
 
 ## Discord Servers, Bots & Tools
 - [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
@@ -1422,6 +1490,14 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 - [Tankafett](http://tankafett.biz/?do=hublist) List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
 - [Linux DC++](https://launchpad.net/linuxdcpp) Easy to configure and use DC++ client
 
+## Secure Messenger
+- [A comparison of messaging / communication services](Messaging-Services-Comparison)
+- [Threema](https://threema.ch/en)
+- [Riot](https://matrix.org/blog/home/)
+- [XMPP (protocol)](https://xmpp.org/)
+- [Briar](https://briarproject.org/)
+- [Wire](https://wire.com/)
+
 ## Full Movies On
 - [/r/fullmoviesonyoutube](https://www.reddit.com/r/fullmoviesonyoutube/)
 - [/r/fullmoviesongoogle](https://www.reddit.com/r/fullmoviesongoogle/)
@@ -1485,6 +1561,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 ## File Sharing Tools
 - [FilePizza](https://file.pizza/) Free peer-to-peer file transfers in your browser.
 - [DBREE](https://dbr.ee/) DBREE is a simplistic and easy way to upload and share any type of file.
+- [uds - Unlimited Google Drive Storage by splitting binary files into base64](https://github.com/stewartmcgown/uds) Open source utility to split your files into babse64 parts which are small enough to be uploaded to Google Doc's.
 
 ## Stream Synchronisation
 - [/r/Movie_Club](https://www.reddit.com/r/Movie_Club) Where you can get together with strangers and watch a great movie every week!
@@ -1520,13 +1597,20 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 ## Antivirus alternatives (because AV's suck)
 - [Sandboxie](https://www.sandboxie.com/) Install and run programs in a virtual sandbox environment without writing to the hard drive.
-- [FireJail](https://firejail.wordpress.com/download-2/) Linux Snadbox
+- [FireJail](https://firejail.wordpress.com/download-2/) Sandbox for Linux
 - [FlatPak](https://flatpak.org/getting) 
 
+## Hardware Security Token
+- [How to use GPG with YubiKey (bonus: WSL)](https://codingnest.com/how-to-use-gpg-with-yubikey-wsl/)
+- [Configure YubiKey with Google, LastPass and KeePass](https://www.raymond.cc/blog/setting-up-yubikey-with-lastpass-as-second-factor-authentication/)
+- [Adding two factor authentication to KeePass & KeePass2Android](http://nidkil.me/2014/12/10/adding-two-factor-authentication-to-keepass-keepass2android/)
 
-## Offline (forever)
+## Reverse Proxy 
 
-Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedowns](https://torrentfreak.com/scammers-hit-pirate-game-sites-with-irreversible-google-takedowns-181130/)"
-
-- Good-Old-Downloads 
-- MovieBox
+- [Cloudflare](https://www.cloudflare.com)
+- [blazingfast.io](https://blazingfast.io)
+- [ddos-guard.net](https://ddos-guard.net/en)
+- [bitmitigate.com](https://bitmitigate.com)
+- [puroxy.org](https://puroxy.org)
+- [x4b.net](https://www.x4b.net)
+- [Geniusguard.com](https://www.geniusguard.com)
