@@ -5,6 +5,7 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - Good-Old-Downloads 
 - MovieBox
 - worldwidetorrents.me
+- buildfeed.net ([source code](https://gitlab.com/buildfeed/BuildFeed))
 
 
 # Anime
@@ -19,6 +20,13 @@ Based on "[Scammers Hit Pirate Game Sites With ‘Irreversible’ Google Takedow
 - audiobookbay.me
 - audiobookbay.la
 - audiobookbay.cc
+- H33T.eu
+- H33t.to
+- pcgames-download.com
+- subsmovies.com
+- macgames-download.com
+
+
 
 
 ## Tracker
